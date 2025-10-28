@@ -50,7 +50,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   ñ
+   git clone https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-Nashon-Juma
    ```
 
 2. **Install dependencies**
