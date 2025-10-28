@@ -6,7 +6,7 @@ A modern React.js application for scheduling drone deliveries, built with Vite, 
 
 ## 🚀 Live Demo
 
-[View Live Application](https://your-vercel-url.vercel.app) *← Replace with your actual deployment URL*
+[View Live Application](https://your-vercel-url.vercel.app) 
 
 ## 📋 Features
 
